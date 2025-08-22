@@ -15,6 +15,8 @@ This app allows you to create, open, and manage SQLite databases easily without 
   ```
 - Exportable results with tabulate
 
+---
+
 ## Installation
 1. Clone the repository:
    ```bash
@@ -46,6 +48,11 @@ python sqlite.py --portable
 - Tabulate
 - ttkbootstrap
 (Already listed in [requirements.txt](https://github.com/KCoder-programming/sqlite-gui-app/blob/main/requirements.txt))
+
+## Screenshot:
+<img width="952" height="592" alt="Screenshot 2025-08-22 183943" src="https://github.com/user-attachments/assets/55325f74-434b-40a2-bf96-72ba7b115aa0" />
+
+---
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
