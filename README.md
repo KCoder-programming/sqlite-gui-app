@@ -2,6 +2,13 @@
 A simple GUI-based SQLite database manager built with Python, Tkinter, ttkbootstrap, and Tabulate.
 This app allows you to create, open, and manage SQLite databases easily without writing commands manually.
 
+---
+
+## Releases
+https://github.com/KCoder-programming/sqlite-gui-app/releases
+
+---
+
 ## Features
 - Create and open SQLite databases
 - Run SQL queries directly from the editor
