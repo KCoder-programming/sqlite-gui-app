@@ -62,7 +62,7 @@ Tabulate
 
 ttkbootstrap
 
-(Already listed in requirements.txt)
+(Already listed in [requirements.txt](https://github.com/KCoder-programming/sqlite-gui-app/blob/main/requirements.txt))
 
 ## License
 
